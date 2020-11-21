@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sahun5774@gmail.com)
 ![](https://komarev.com/ghpvc/?username=sudonitin&color=blue&style=flat-square&label=Profile+visitors)
 
-A Software Engineer proficient in web development especially with MERN stack. Curious to explore. Nowadays exploring DevOps | React Native.
+A Software Engineer proficient in web development especially with MERN stack. Curious to explore. Nowadays exploring React Native.
 
 
 - 🏢 I'm currently working as a Software Engineer at [Yellow Messenger](https://github.com/newfangadmin/)
