@@ -5,25 +5,8 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sahun5774@gmail.com)
 ![](https://komarev.com/ghpvc/?username=sudonitin&color=blue&style=flat-square&label=Profile+visitors)
 
-Hi, I am Nitin, a Full Stack (MERN) Developer by profession, and an avid entrepreneur by heart.
 
-In my first year of engineering college, I got introduced to 'Website Development' and 'Freelancing'. This seemed cool to me as these geek friends of mine were earning quite an amount while being in college.
-
-I took this is as an inspiration and started my journey to become a 'Freelancer' and 'Web Developer' but making static websites was not all that I wanted to do.
-
-So I started observing my day-to-day activities and tried to make my life easy with software engineering. With this mindset, I built my own Live Color Picker in Python. Then came Medium Scraper in Django and Python, which scrapes premium Medium content for you and gives an audio version too. One thing led to another and I created my E-Book to Audio Book generator in Python.
-(FYI: All these projects are open-sourced in my Github)
-
-However, this was not all. I wanted to be ready for the next challenge. I started participating in hackathons along with my friends, at first, our proposals were getting rejected.
-
-But failure didn't stop us, in 2019 we won the most innovative solution for developing a pothole detection system with Machine Learning, and Android Development.
-
-Now comes 2020, the COVID 19 pandemic. Lots of student's offer letters were revoked, being a 2020 graduate myself instead of worrying about the same I used this time to sharpen my React.js, Node.js (MERN - Full Stack Javascript Developer) skills, and completed three internships with two of them giving me full-time opportunities. I had the luxury to choose from four(one from college but not satisfied) full-time opportunities.
-
-This is a classic example of "If opportunity doesn't knock, build a door". Since then I've been constantly looking for challenging opportunities to upskill myself.
-
-Now that you know a thing or two about me I'd love to talk about some interesting topics or opportunities that you might have for me.
-Hit me up or drop a mail at : sahun5774@gmail.com 
+A Software Engineer proficient in web development especially with MERN stack. Curious to explore.
 
 - 🏢 I'm currently working as a Software Engineer at [Yellow Messenger](https://github.com/newfangadmin/)
 - 🎨 Checkout my [portfolio](https://sudonitin.netlify.com/)
