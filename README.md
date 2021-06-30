@@ -9,8 +9,6 @@
 A Software Engineer proficient in web development especially with MERN stack. Curious to explore.
 
 - 🏢 I'm currently working as a Software Engineer at [Yellow Messenger](https://yellowmessenger.com/)
-- 🎨 Checkout my [portfolio](https://sudonitin.netlify.com/)
-
 
 **Languages and Tools:** 
 <p>
