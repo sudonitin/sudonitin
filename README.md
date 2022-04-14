@@ -9,7 +9,7 @@
 A Software Engineer proficient in web development especially with MERN stack. Curious to explore.
 
 - 🏢 I'm currently working as a Software Engineer at [WhiteHat Jr](https://www.whitehatjr.com/)
-- 🎨 Checkout my [portfolio](https://sudonitin.netlify.com/)
+- 🎨 Checkout my [engineering blog](https://readosapien.com/author/sudonitin/)
 
 
 **Languages and Tools:** 
