@@ -8,7 +8,7 @@
 
 A Software Engineer proficient in web development especially with MERN stack. Curious to explore.
 
-- 🏢 I'm currently working as a Software Engineer at Byju's
+- 🏢 I'm currently working as a Software Engineer.
 - 🎨 Checkout my [engineering blog](https://readosapien.com/author/sudonitin/)
 
 
